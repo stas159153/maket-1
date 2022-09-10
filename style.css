@@ -1,0 +1,221 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Poppins;
+    font-weight:;
+}
+.wrapper{
+    width: 1110px;
+    margin: auto;
+    height: 100vh;
+}
+.header{
+    background-image:url(bag.jpg);
+    background-size: cover;
+}
+.main-text{
+    color: white;
+    text-transform: uppercase;
+    font-size: 28px;
+}
+.main-link{
+    text-decoration: none;
+    color: white;
+    margin-left: 15px;
+    font-size: 18px;
+    padding-bottom: 4px;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.main-link:hover{
+    border-bottom: 1px solid white;
+}
+.title-text{
+    font-size: 80px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+.title-link{
+    background-color: white;
+    display: block;
+    width: 190px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding: 23px 0;
+    margin: auto;
+}
+.title{
+    margin-top: 17%;
+}
+.title-link:hover{
+background-color: rgb(37, 37, 37);
+color: white;
+}
+.conteiner{
+    height: 850px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+}
+.conteiner-a{
+background-color: black;
+color: white;
+padding: 20px 60px;
+text-decoration: none;
+margin-top: 100px;
+display:inline-block;
+transition: 0.2s;
+}
+.conteiner-a:hover{
+    background-color: rgb(54, 54, 54);
+}
+.conteiner-text{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 70px;
+}
+.content{
+    background-color: black;
+    height: 1000px;
+    width: 100%;
+}
+.content-text{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    padding-top: 175px;
+    padding-bottom: 100px;
+}
+.content-icon{
+    width: 30%;
+    margin: 10px;
+}
+.content-image{
+width: 100%;
+}
+.content-p{
+    color: white;
+    text-align: center;
+    font-size: ;
+}
+.content-title{
+    display: flex;
+    justify-content: center;
+}
+.content-a{
+    padding: 20px 60px;
+    display: inline-block;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    text-align: center;
+    transition: 0.3s;
+}
+.content-block-a{
+   display: flex;
+   justify-content: center;
+   margin-top: 50px;
+}
+
+.content-a:hover{
+    background-color: rgb(39, 39, 39);
+    color: white;
+}
+.section{
+    height: 830px;
+    display: flex;
+    justify-content: space-around;
+}
+.services{
+    font-size: 90px;
+}
+.section-wrapper{
+    width: 400px;
+    margin-top: 230px;
+}
+.section-a{
+    padding: 20px 60px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    transition: 0.2s;
+
+}
+.section-a:hover{
+    background-color: rgb(71, 71, 71);
+}
+.section-p{
+    margin-bottom: 70px;
+}
+.section2-text{
+display:block ;
+margin: 40px 0;
+display: flex;
+align-items: center;
+}
+.section2-h2{
+display: inline-block;
+font-size: 60px;
+padding-right: 50px;
+}
+.section2-p{
+display: inline-block;
+font-size: 30px;
+}
+.section2{
+    margin-top: 210px;
+}
+.select{
+    height: 760px;
+    background-image: url(select.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content:flex-end ;
+    background-position: center;
+}
+.section-select{
+    width: 400px;
+    margin-top: 230px;
+    margin-right: 500px;
+}
+.services-h2{
+    font-size: 60px;
+}
+.rapper{
+    height: 450px;
+    background-color: black;
+    padding-top:130px ;
+    display: flex;
+    justify-content: space-around;
+}
+.rapper-h4{
+text-transform: uppercase;
+color: white;
+font-size: 27px;
+display: inline-block;
+}
+.rapper-p{
+    color: white;
+}
+.rapper-text{
+    color: white;
+    margin-top: 80px;
+}
+.rapper-block{
+    display:block;
+    width: 190px;
+}
+.conteiner-2{
+    width: 600px;
+    margin: auto;
+}
